@@ -1,0 +1,14 @@
+C:\P1\claseOOP1\claseOOP1\bin\Debug\net8.0\claseOOP1.exe
+C:\P1\claseOOP1\claseOOP1\bin\Debug\net8.0\claseOOP1.deps.json
+C:\P1\claseOOP1\claseOOP1\bin\Debug\net8.0\claseOOP1.runtimeconfig.json
+C:\P1\claseOOP1\claseOOP1\bin\Debug\net8.0\claseOOP1.dll
+C:\P1\claseOOP1\claseOOP1\bin\Debug\net8.0\claseOOP1.pdb
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.AssemblyInfoInputs.cache
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.AssemblyInfo.cs
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.csproj.CoreCompileInputs.cache
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.dll
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\refint\claseOOP1.dll
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.pdb
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\claseOOP1.genruntimeconfig.cache
+C:\P1\claseOOP1\claseOOP1\obj\Debug\net8.0\ref\claseOOP1.dll
